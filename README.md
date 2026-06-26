@@ -21,3 +21,4 @@ A responsive eCommerce store for premium indoor plants, planters & botanical acc
 React | TypeScript | Vite | CSS
 
 ## Live Demo
+https://greennest-sepia.vercel.app/
