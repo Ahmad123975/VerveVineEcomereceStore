@@ -221,7 +221,7 @@ export const Home: React.FC = () => {
                     <img src="https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=100&auto=format&fit=crop&q=80" alt="Sarah J" style={{ width: '100%', height: '100%', objectFit: 'cover' }} />
                   </div>
                   <div>
-                    <h6 className="m-0 fw-bold font-serif">Sarah Jenkins</h6>
+                    <h6 className="m-0 fw-bold font-serif">Sobia Malik</h6>
                     <small className="text-muted">Botanical Stylist</small>
                   </div>
                 </div>
@@ -245,7 +245,7 @@ export const Home: React.FC = () => {
                     <img src="https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=100&auto=format&fit=crop&q=80" alt="David K" style={{ width: '100%', height: '100%', objectFit: 'cover' }} />
                   </div>
                   <div>
-                    <h6 className="m-0 fw-bold font-serif">David Kross</h6>
+                    <h6 className="m-0 fw-bold font-serif">Hamza Shah</h6>
                     <small className="text-muted">Architect</small>
                   </div>
                 </div>
@@ -269,7 +269,7 @@ export const Home: React.FC = () => {
                     <img src="https://images.unsplash.com/photo-1544005313-94ddf0286df2?w=100&auto=format&fit=crop&q=80" alt="Avery M" style={{ width: '100%', height: '100%', objectFit: 'cover' }} />
                   </div>
                   <div>
-                    <h6 className="m-0 fw-bold font-serif">Avery Martinez</h6>
+                    <h6 className="m-0 fw-bold font-serif">Mariam Yusuf</h6>
                     <small className="text-muted">Interior Designer</small>
                   </div>
                 </div>

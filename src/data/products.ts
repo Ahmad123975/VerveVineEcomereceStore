@@ -50,14 +50,14 @@ export const products: Product[] = [
     reviews: [
       {
         id: 'r1',
-        name: "Evelyn Carter",
+        name: "Ayesha Khan",
         rating: 5,
         comment: "Absolutely stunning! The variegation is incredible and it arrived in perfect condition. Already pushing out a new leaf with half-moon variegation!",
         date: "2026-05-12"
       },
       {
         id: 'r2',
-        name: "Julian Brooks",
+        name: "Zainab Ahmed",
         rating: 5,
         comment: "A collectors dream. Shipping was fast and the packaging was extremely secure. A true statement piece for my living room.",
         date: "2026-06-01"
@@ -90,14 +90,14 @@ export const products: Product[] = [
     reviews: [
       {
         id: 'r3',
-        name: "Clara Vance",
+        name: "Hamza Ali",
         rating: 4,
         comment: "Beautiful tree! It took about two weeks to adjust to my apartment (dropped one lower leaf), but now it looks incredibly happy and is thriving.",
         date: "2026-04-18"
       },
       {
         id: 'r4',
-        name: "Liam O'Connor",
+        name: "Bilal Siddiqui",
         rating: 5,
         comment: "Exactly what my office space needed. Beautiful dark green leaves and very healthy roots.",
         date: "2026-05-24"
@@ -130,7 +130,7 @@ export const products: Product[] = [
     reviews: [
       {
         id: 'r5',
-        name: "Sophia Martinez",
+        name: "Fatima Noor",
         rating: 5,
         comment: "The silver stripes are gorgeous. Packaged safely and healthy upon arrival. Highly recommend this store for plants!",
         date: "2026-05-30"
@@ -163,7 +163,7 @@ export const products: Product[] = [
     reviews: [
       {
         id: 'r6',
-        name: "Marcus Aurelius",
+        name: "Usman Tariq",
         rating: 5,
         comment: "Low maintenance, healthy, clean look. Perfect for my studio apartment where light is limited.",
         date: "2026-06-15"
@@ -195,7 +195,7 @@ export const products: Product[] = [
     reviews: [
       {
         id: 'r7',
-        name: "Diana Prince",
+        name: "Sobia Malik",
         rating: 5,
         comment: "Beautiful texture. The arch pattern looks subtle yet elegant, and the natural clay makes my plants thrive. Absolutely worth the price.",
         date: "2026-05-19"
@@ -227,7 +227,7 @@ export const products: Product[] = [
     reviews: [
       {
         id: 'r8',
-        name: "Ethan Hunt",
+        name: "Zohaib Hassan",
         rating: 4,
         comment: "Very sturdy and heavy pot. Matches my modern industrial decor perfectly. Wish it came in a larger 12-inch size too.",
         date: "2026-06-10"
@@ -259,7 +259,7 @@ export const products: Product[] = [
     reviews: [
       {
         id: 'r9',
-        name: "Naomi Watts",
+        name: "Sadia Bashir",
         rating: 5,
         comment: "Exceeded my expectations. The sandstone texture has a warm, sandy glow under lights. Looks beautiful holding my Fiddle Leaf Fig.",
         date: "2026-06-03"
@@ -290,7 +290,7 @@ export const products: Product[] = [
     reviews: [
       {
         id: 'r10',
-        name: "Oliver Queen",
+        name: "Mustafa Kamal",
         rating: 5,
         comment: "This is a masterpiece. I leave it on my plant shelf as a decoration. The long spout makes watering my hanging plants incredibly easy.",
         date: "2026-05-28"
@@ -321,7 +321,7 @@ export const products: Product[] = [
     reviews: [
       {
         id: 'r11',
-        name: "Bruce Wayne",
+        name: "Sheraz Chaudhry",
         rating: 4,
         comment: "Very easy to assemble, nice solid wood grain. Minimalist and fits my aesthetic.",
         date: "2026-06-20"
@@ -352,7 +352,7 @@ export const products: Product[] = [
     reviews: [
       {
         id: 'r12',
-        name: "Selina Kyle",
+        name: "Hania Amir",
         rating: 5,
         comment: "Beautiful, sleek leather straps. It lifts the room's energy by hanging my pothos from the ceiling. Will be buying a second one.",
         date: "2026-06-22"

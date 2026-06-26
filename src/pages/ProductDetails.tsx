@@ -350,7 +350,7 @@ export const ProductDetails: React.FC = () => {
                       id="rev-name"
                       type="text" 
                       className="form-control form-control-sm"
-                      placeholder="e.g. Jane Doe"
+                      placeholder="e.g. Fatima Noor"
                       value={newReviewName}
                       onChange={(e) => setNewReviewName(e.target.value)}
                       required

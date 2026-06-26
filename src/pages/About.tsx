@@ -122,11 +122,11 @@ export const About: React.FC = () => {
               <div className="rounded overflow-hidden mb-3 shadow-sm" style={{ height: '280px' }}>
                 <img 
                   src="https://images.unsplash.com/photo-1544005313-94ddf0286df2?w=300&auto=format&fit=crop&q=80" 
-                  alt="Clara Vance" 
+                  alt="Amna Qureshi" 
                   style={{ width: '100%', height: '100%', objectFit: 'cover' }}
                 />
               </div>
-              <h5 className="font-serif fw-bold m-0 text-primary">Clara Vance</h5>
+              <h5 className="font-serif fw-bold m-0 text-primary">Amna Qureshi</h5>
               <small className="text-muted d-block mt-1">Co-Founder & Plant Pathologist</small>
             </div>
           </div>
@@ -137,11 +137,11 @@ export const About: React.FC = () => {
               <div className="rounded overflow-hidden mb-3 shadow-sm" style={{ height: '280px' }}>
                 <img 
                   src="https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?w=300&auto=format&fit=crop&q=80" 
-                  alt="Marcus Aurelius" 
+                  alt="Sheraz Ahmed" 
                   style={{ width: '100%', height: '100%', objectFit: 'cover' }}
                 />
               </div>
-              <h5 className="font-serif fw-bold m-0 text-primary">Marcus Vance</h5>
+              <h5 className="font-serif fw-bold m-0 text-primary">Sheraz Ahmed</h5>
               <small className="text-muted d-block mt-1">Co-Founder & Landscape Architect</small>
             </div>
           </div>
@@ -152,11 +152,11 @@ export const About: React.FC = () => {
               <div className="rounded overflow-hidden mb-3 shadow-sm" style={{ height: '280px' }}>
                 <img 
                   src="https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?w=300&auto=format&fit=crop&q=80" 
-                  alt="Elena Rostova" 
+                  alt="Nida Khan" 
                   style={{ width: '100%', height: '100%', objectFit: 'cover' }}
                 />
               </div>
-              <h5 className="font-serif fw-bold m-0 text-primary">Elena Rostova</h5>
+              <h5 className="font-serif fw-bold m-0 text-primary">Nida Khan</h5>
               <small className="text-muted d-block mt-1">Lead Ceramic Artist</small>
             </div>
           </div>
@@ -167,11 +167,11 @@ export const About: React.FC = () => {
               <div className="rounded overflow-hidden mb-3 shadow-sm" style={{ height: '280px' }}>
                 <img 
                   src="https://images.unsplash.com/photo-1519085360753-af0119f7cbe7?w=300&auto=format&fit=crop&q=80" 
-                  alt="Julian Brooks" 
+                  alt="Zohaib Hassan" 
                   style={{ width: '100%', height: '100%', objectFit: 'cover' }}
                 />
               </div>
-              <h5 className="font-serif fw-bold m-0 text-primary">Julian Brooks</h5>
+              <h5 className="font-serif fw-bold m-0 text-primary">Zohaib Hassan</h5>
               <small className="text-muted d-block mt-1">Logistics & Acclimation Manager</small>
             </div>
           </div>

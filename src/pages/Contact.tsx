@@ -54,8 +54,8 @@ export const Contact: React.FC = () => {
               <div>
                 <h6 className="fw-bold text-primary mb-1">Our Greenhouse Boutique</h6>
                 <p className="text-secondary m-0" style={{ fontSize: '0.95rem' }}>
-                  842 Botanical Way, Suite C<br />
-                  Portland, Oregon 97205
+                  Suite 102, 3rd Commercial Lane<br />
+                  Phase 6, DHA, Karachi, Pakistan
                 </p>
               </div>
             </div>
@@ -82,8 +82,8 @@ export const Contact: React.FC = () => {
               <div>
                 <h6 className="fw-bold text-primary mb-1">Telephone</h6>
                 <p className="text-secondary m-0" style={{ fontSize: '0.95rem' }}>
-                  +1 (503) 555-0142<br />
-                  Mon - Fri: 9:00 AM - 5:00 PM PST
+                  +92 (21) 3555-0142<br />
+                  Mon - Fri: 9:00 AM - 5:00 PM PKT
                 </p>
               </div>
             </div>
@@ -127,7 +127,7 @@ export const Contact: React.FC = () => {
                       id="con-name"
                       type="text" 
                       className="form-control" 
-                      placeholder="e.g. John Doe"
+                      placeholder="e.g. Ali Ahmed"
                       value={name}
                       onChange={(e) => setName(e.target.value)}
                       required 
@@ -141,7 +141,7 @@ export const Contact: React.FC = () => {
                       id="con-email"
                       type="email" 
                       className="form-control" 
-                      placeholder="e.g. john@example.com"
+                      placeholder="e.g. ali.ahmed@example.pk"
                       value={email}
                       onChange={(e) => setEmail(e.target.value)}
                       required 
@@ -313,7 +313,7 @@ export const Contact: React.FC = () => {
                   data-bs-parent="#faqAccordion"
                 >
                   <div className="accordion-body">
-                    All rare plants, like our Monstera Albo and Calathea Orbifolia, are grown through tissue culture or propagated cuttings at our partner certified organic greenhouses in Oregon. We do not extract plants from wild tropical forests, adhering strictly to ecological preservation guidelines.
+                    All rare plants, like our Monstera Albo and Calathea Orbifolia, are grown through tissue culture or propagated cuttings at our partner certified organic greenhouses in Lahore. We do not extract plants from wild tropical forests, adhering strictly to ecological preservation guidelines.
                   </div>
                 </div>
               </div>
